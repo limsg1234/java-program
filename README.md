@@ -17,6 +17,5 @@
 ### 답글
 ![답글](https://user-images.githubusercontent.com/53066410/71965551-3c0e7700-3243-11ea-8b2b-144c441f3382.gif)
 
-### 
+### 알림
 ![알림](https://user-images.githubusercontent.com/53066410/71965560-416bc180-3243-11ea-8cb1-579cb0447c36.gif)
-
